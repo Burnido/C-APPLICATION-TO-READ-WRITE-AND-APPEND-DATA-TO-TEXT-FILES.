@@ -77,6 +77,13 @@ This file handling program serves as an excellent learning tool for understandin
 Overall, the program is clean, efficient, and user-friendly. It can be further extended to include features like deleting a file, searching for keywords in the file, or editing specific lines—making it an ideal base for more advanced file-based applications.
 
 
+*OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/001f4489-4cde-47d4-a56a-f22933e83d38)
+
+![Image](https://github.com/user-attachments/assets/3cce4f90-e034-41cd-b4c9-2324eb7f814d)
+
+
 
 
 
